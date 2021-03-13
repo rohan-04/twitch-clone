@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "cxvcxvcx",
+      "description": "xzcvxzcv",
+      "id": 1
+    },
+    {
+      "description": "This is my test stream.",
+      "title": "My Stream",
+      "id": 2
+    },
+    {
+      "title": "Other stream",
+      "description": "This is created by me!!!!",
+      "userId": "115640151388503869424",
+      "id": 3
+    },
+    {
+      "title": "Another one!!!",
+      "description": "Mastering React",
+      "userId": "115640151388503869424",
+      "id": 4
+    },
+    {
+      "title": "Another one!!!",
+      "description": "Mastering React",
+      "userId": "115640151388503869424",
+      "id": 5
+    },
+    {
+      "title": "Another one✌",
+      "description": "Watch my stream 👀👀👀",
+      "userId": "115640151388503869424",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "description": "testtesttesttesttest",
+      "id": 10
+    }
+  ]
+}
